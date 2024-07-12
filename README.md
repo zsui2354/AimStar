@@ -19,12 +19,12 @@
   ⛔ USE AT YOUR OWN RISK ⛔
 </h4>
 
-## ⛔本软件不适合弱智群体使用⛔
+## ⛔本软件不适合解决问题能力弱的群体使用⛔
 
 新Q群965602737
 
-<details>
-<summary>智障合集，持续更新中</summary>
+<!-- <details>
+<summary>XX合集，持续更新中</summary>
 
 
 ![8370be7da27fe7040d9fb4735ec69eec](https://github.com/CowNowK/AimStar/assets/65479796/24caeb87-cc36-4280-9cdf-3703eede6f6a)
@@ -58,7 +58,7 @@
 ![Image_1718621059540](https://github.com/CowNowK/AimStar/assets/65479796/8a634c00-5d43-41a6-9b26-f7f749339b78)
 
 </details>
-
+ -->
 ## ❗ Info
 
 Free and open-source external cheat for CS2, written in C++. - Available for Windows8.1+
